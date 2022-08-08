@@ -1,3 +1,5 @@
+PLEASE CHANGE THE API KEY IN THE Home.js FILE PRIOR USING
+
 This is a news Applicaiton.
 
 
